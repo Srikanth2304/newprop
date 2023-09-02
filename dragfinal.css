@@ -1,0 +1,19 @@
+.FilesDragAndDrop{
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* width: 100vw; */
+}
+label {
+  width: 450px;
+  box-sizing: border-box;
+
+}
+
+.button-container {
+  display: flex;
+  gap: 10px; /* Adjust the gap size as needed */
+}
